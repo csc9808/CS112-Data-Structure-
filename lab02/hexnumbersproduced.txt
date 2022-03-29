@@ -1,0 +1,18 @@
+Address of long double: 0x7ffcf7427d70		Memory of long double: 16
+Address of double: 0x7ffcf7427d20			Memory of double: 8
+Address of float: 0x7ffcf7427d18			Memory of float: 4
+Address of long: 0x7ffcf7427d28				Memory of long: 8
+Address of int: 0x7ffcf7427d1c				Memory of int: 4
+Address of short: 0x7ffcf7427d16			Memory of short: 2
+Address of char1: 0x7ffcf7427d13			Memory of char1: 1
+Address of char2: 0x7ffcf7427d14			Memory of char2: 1
+Address of bool: 0x7ffcf7427d15				Memory of bool: 1
+-----------------------------------------------------------------------------
+Address of long double *: 0x7ffcf7427d30	Memory of long double *: 8
+Address of double *: 0x7ffcf7427d38			Memory of double *: 8
+Address of float *: 0x7ffcf7427d40			Memory of float *: 8
+Address of long *: 0x7ffcf7427d48			Memory of long *: 8
+Address of int *: 0x7ffcf7427d50			Memory of int *: 8
+Address of short *: 0x7ffcf7427d58			Memory of short *: 8
+Address of char *: 0x7ffcf7427d60			Memory of char *: 8
+Address of bool *: 0x7ffcf7427d68			Memory of bool *: 8
